@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1676/trunk/Sources/Video.Kinect
+END
+AForge.Video.Kinect.snk
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1481/trunk/Sources/Video.Kinect/AForge.Video.Kinect.snk
+END
+KinectDepthCamera.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1675/trunk/Sources/Video.Kinect/KinectDepthCamera.cs
+END
+Video.Kinect.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1635/trunk/Sources/Video.Kinect/Video.Kinect.csproj
+END
+Kinect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1675/trunk/Sources/Video.Kinect/Kinect.cs
+END
+KinectVideoCamera.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1675/trunk/Sources/Video.Kinect/KinectVideoCamera.cs
+END
+KinectNative.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1675/trunk/Sources/Video.Kinect/KinectNative.cs
+END
+Video.Kinect.sln
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1635/trunk/Sources/Video.Kinect/Video.Kinect.sln
+END

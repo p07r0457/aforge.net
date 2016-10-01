@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1195/trunk/Sources/Imaging/Textures
+END
+WoodTexture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1195/trunk/Sources/Imaging/Textures/WoodTexture.cs
+END
+CloudsTexture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1195/trunk/Sources/Imaging/Textures/CloudsTexture.cs
+END
+LabyrinthTexture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1195/trunk/Sources/Imaging/Textures/LabyrinthTexture.cs
+END
+TextileTexture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1195/trunk/Sources/Imaging/Textures/TextileTexture.cs
+END
+ITextureGenerator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1020/trunk/Sources/Imaging/Textures/ITextureGenerator.cs
+END
+Texture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1195/trunk/Sources/Imaging/Textures/Texture.cs
+END
+MarbleTexture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1195/trunk/Sources/Imaging/Textures/MarbleTexture.cs
+END

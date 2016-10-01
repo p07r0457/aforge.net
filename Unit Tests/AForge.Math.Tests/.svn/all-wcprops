@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1701/trunk/Unit%20Tests/AForge.Math.Tests
+END
+Matrix4x4Test.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1584/trunk/Unit%20Tests/AForge.Math.Tests/Matrix4x4Test.cs
+END
+Vector3Test.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1390/trunk/Unit%20Tests/AForge.Math.Tests/Vector3Test.cs
+END
+AForge.Math.Tests.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1635/trunk/Unit%20Tests/AForge.Math.Tests/AForge.Math.Tests.csproj
+END
+StatisticsTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1458/trunk/Unit%20Tests/AForge.Math.Tests/StatisticsTest.cs
+END
+ToolsTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1333/trunk/Unit%20Tests/AForge.Math.Tests/ToolsTest.cs
+END
+Matrix3x3Test.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1584/trunk/Unit%20Tests/AForge.Math.Tests/Matrix3x3Test.cs
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1715/trunk/Sources/Robotics.TeRK
+END
+Robotics.TeRK.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1635/trunk/Sources/Robotics.TeRK/Robotics.TeRK.csproj
+END
+Qwerk.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1714/trunk/Sources/Robotics.TeRK/Qwerk.cs
+END
+Qwerk.Servos.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1714/trunk/Sources/Robotics.TeRK/Qwerk.Servos.cs
+END
+Qwerk.Motors.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1714/trunk/Sources/Robotics.TeRK/Qwerk.Motors.cs
+END
+Qwerk.DigitalIn.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1714/trunk/Sources/Robotics.TeRK/Qwerk.DigitalIn.cs
+END
+Qwerk.DigitalOut.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1714/trunk/Sources/Robotics.TeRK/Qwerk.DigitalOut.cs
+END
+Qwerk.Video.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1714/trunk/Sources/Robotics.TeRK/Qwerk.Video.cs
+END
+Robotics.TeRK.sln
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1635/trunk/Sources/Robotics.TeRK/Robotics.TeRK.sln
+END
+Qwerk.Leds.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1714/trunk/Sources/Robotics.TeRK/Qwerk.Leds.cs
+END
+AForge.Robotics.TeRK.snk
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/952/trunk/Sources/Robotics.TeRK/AForge.Robotics.TeRK.snk
+END
+Qwerk.AnalogIn.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1714/trunk/Sources/Robotics.TeRK/Qwerk.AnalogIn.cs
+END
+Exceptions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1055/trunk/Sources/Robotics.TeRK/Exceptions.cs
+END

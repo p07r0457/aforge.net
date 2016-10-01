@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1641/trunk/Sources/Genetic/Selection%20Algorithms
+END
+EliteSelection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/952/trunk/Sources/Genetic/Selection%20Algorithms/EliteSelection.cs
+END
+RouletteWheelSelection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1641/trunk/Sources/Genetic/Selection%20Algorithms/RouletteWheelSelection.cs
+END
+ISelectionMethod.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/952/trunk/Sources/Genetic/Selection%20Algorithms/ISelectionMethod.cs
+END
+RankSelection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1641/trunk/Sources/Genetic/Selection%20Algorithms/RankSelection.cs
+END

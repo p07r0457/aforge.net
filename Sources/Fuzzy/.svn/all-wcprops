@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/1676/trunk/Sources/Fuzzy
+END
+Database.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/952/trunk/Sources/Fuzzy/Database.cs
+END
+Rule.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1403/trunk/Sources/Fuzzy/Rule.cs
+END
+Fuzzy (mono).sln
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1011/trunk/Sources/Fuzzy/Fuzzy%20(mono).sln
+END
+FuzzyOutput.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1403/trunk/Sources/Fuzzy/FuzzyOutput.cs
+END
+Clause.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1403/trunk/Sources/Fuzzy/Clause.cs
+END
+Fuzzy (mono).csproj
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1161/trunk/Sources/Fuzzy/Fuzzy%20(mono).csproj
+END
+Fuzzy.sln
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1635/trunk/Sources/Fuzzy/Fuzzy.sln
+END
+AForge.Fuzzy.snk
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/952/trunk/Sources/Fuzzy/AForge.Fuzzy.snk
+END
+LinguisticVariable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1403/trunk/Sources/Fuzzy/LinguisticVariable.cs
+END
+Fuzzy.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1635/trunk/Sources/Fuzzy/Fuzzy.csproj
+END
+Rulebase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/952/trunk/Sources/Fuzzy/Rulebase.cs
+END
+FuzzySet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1403/trunk/Sources/Fuzzy/FuzzySet.cs
+END
+InferenceSystem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1403/trunk/Sources/Fuzzy/InferenceSystem.cs
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1278/trunk/Sources/Imaging/Filters/Morphology/Specific%20Optimizations
+END
+Erosion3.x3.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1278/trunk/Sources/Imaging/Filters/Morphology/Specific%20Optimizations/Erosion3.x3.cs
+END
+BinaryDilatation3x3.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1278/trunk/Sources/Imaging/Filters/Morphology/Specific%20Optimizations/BinaryDilatation3x3.cs
+END
+BinaryErosion3x3.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1278/trunk/Sources/Imaging/Filters/Morphology/Specific%20Optimizations/BinaryErosion3x3.cs
+END
+Dilatation3x3.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1278/trunk/Sources/Imaging/Filters/Morphology/Specific%20Optimizations/Dilatation3x3.cs
+END

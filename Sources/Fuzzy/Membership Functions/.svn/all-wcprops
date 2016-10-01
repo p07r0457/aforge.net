@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1403/trunk/Sources/Fuzzy/Membership%20Functions
+END
+PiecewiseLinearFunction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1403/trunk/Sources/Fuzzy/Membership%20Functions/PiecewiseLinearFunction.cs
+END
+TrapezoidalFunction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1403/trunk/Sources/Fuzzy/Membership%20Functions/TrapezoidalFunction.cs
+END
+SingletonFunction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1403/trunk/Sources/Fuzzy/Membership%20Functions/SingletonFunction.cs
+END
+IMembershipFunction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1403/trunk/Sources/Fuzzy/Membership%20Functions/IMembershipFunction.cs
+END

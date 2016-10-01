@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1701/trunk/Sources/Math/Geometry
+END
+GrahamConvexHull.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1701/trunk/Sources/Math/Geometry/GrahamConvexHull.cs
+END
+Line.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1559/trunk/Sources/Math/Geometry/Line.cs
+END
+IConvexHullAlgorithm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1402/trunk/Sources/Math/Geometry/IConvexHullAlgorithm.cs
+END
+LineSegment.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1559/trunk/Sources/Math/Geometry/LineSegment.cs
+END
+IShapeOptimizer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1402/trunk/Sources/Math/Geometry/IShapeOptimizer.cs
+END
+GeometryTools.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1402/trunk/Sources/Math/Geometry/GeometryTools.cs
+END
+ClosePointsMergingOptimizer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1402/trunk/Sources/Math/Geometry/ClosePointsMergingOptimizer.cs
+END
+POSIT.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1586/trunk/Sources/Math/Geometry/POSIT.cs
+END
+CoplanarPosit.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1621/trunk/Sources/Math/Geometry/CoplanarPosit.cs
+END
+SimpleShapeChecker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1506/trunk/Sources/Math/Geometry/SimpleShapeChecker.cs
+END
+LineStraighteningOptimizer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1402/trunk/Sources/Math/Geometry/LineStraighteningOptimizer.cs
+END
+ShapeType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1402/trunk/Sources/Math/Geometry/ShapeType.cs
+END
+FlatAnglesOptimizer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1402/trunk/Sources/Math/Geometry/FlatAnglesOptimizer.cs
+END
+PointsCloud.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1581/trunk/Sources/Math/Geometry/PointsCloud.cs
+END

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1663/trunk/Samples/Vision/MotionDetector
+END
+MainForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1661/trunk/Samples/Vision/MotionDetector/MainForm.Designer.cs
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1007/trunk/Samples/Vision/MotionDetector/Program.cs
+END
+MainForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1663/trunk/Samples/Vision/MotionDetector/MainForm.cs
+END
+AboutForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/985/trunk/Samples/Vision/MotionDetector/AboutForm.resx
+END
+VideoCaptureDeviceForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/985/trunk/Samples/Vision/MotionDetector/VideoCaptureDeviceForm.resx
+END
+MotionDetector.exe.config
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/985/trunk/Samples/Vision/MotionDetector/MotionDetector.exe.config
+END
+MotionRegionsForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1007/trunk/Samples/Vision/MotionDetector/MotionRegionsForm.Designer.cs
+END
+MotionRegionsForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1495/trunk/Samples/Vision/MotionDetector/MotionRegionsForm.cs
+END
+DefineRegionsControl.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1007/trunk/Samples/Vision/MotionDetector/DefineRegionsControl.Designer.cs
+END
+DefineRegionsControl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1495/trunk/Samples/Vision/MotionDetector/DefineRegionsControl.cs
+END
+MainForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1009/trunk/Samples/Vision/MotionDetector/MainForm.resx
+END
+App.ico
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/985/trunk/Samples/Vision/MotionDetector/App.ico
+END
+URLForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1007/trunk/Samples/Vision/MotionDetector/URLForm.Designer.cs
+END
+MotionDetector.sln
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1636/trunk/Samples/Vision/MotionDetector/MotionDetector.sln
+END
+URLForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1495/trunk/Samples/Vision/MotionDetector/URLForm.cs
+END
+MotionDetector.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1636/trunk/Samples/Vision/MotionDetector/MotionDetector.csproj
+END
+MotionRegionsForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/985/trunk/Samples/Vision/MotionDetector/MotionRegionsForm.resx
+END
+AboutForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1007/trunk/Samples/Vision/MotionDetector/AboutForm.Designer.cs
+END
+VideoCaptureDeviceForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1007/trunk/Samples/Vision/MotionDetector/VideoCaptureDeviceForm.Designer.cs
+END
+VideoCaptureDeviceForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1007/trunk/Samples/Vision/MotionDetector/VideoCaptureDeviceForm.cs
+END
+AboutForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1007/trunk/Samples/Vision/MotionDetector/AboutForm.cs
+END
+URLForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/985/trunk/Samples/Vision/MotionDetector/URLForm.resx
+END

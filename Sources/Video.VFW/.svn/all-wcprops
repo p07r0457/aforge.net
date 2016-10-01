@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1676/trunk/Sources/Video.VFW
+END
+AVIWriter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1498/trunk/Sources/Video.VFW/AVIWriter.cs
+END
+Video.VFW.sln
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1635/trunk/Sources/Video.VFW/Video.VFW.sln
+END
+AForge.Video.VFW.snk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/952/trunk/Sources/Video.VFW/AForge.Video.VFW.snk
+END
+AVIReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1498/trunk/Sources/Video.VFW/AVIReader.cs
+END
+Win32.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1583/trunk/Sources/Video.VFW/Win32.cs
+END
+Video.VFW.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1635/trunk/Sources/Video.VFW/Video.VFW.csproj
+END
+AVIFileVideoSource.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1627/trunk/Sources/Video.VFW/AVIFileVideoSource.cs
+END

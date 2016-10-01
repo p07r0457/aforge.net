@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1403/trunk/Sources/Genetic/Fitness%20Functions
+END
+TimeSeriesPredictionFitness.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/952/trunk/Sources/Genetic/Fitness%20Functions/TimeSeriesPredictionFitness.cs
+END
+IFitnessFunction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/952/trunk/Sources/Genetic/Fitness%20Functions/IFitnessFunction.cs
+END
+SymbolicRegressionFitness.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/952/trunk/Sources/Genetic/Fitness%20Functions/SymbolicRegressionFitness.cs
+END
+OptimizationFunction1D.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1403/trunk/Sources/Genetic/Fitness%20Functions/OptimizationFunction1D.cs
+END
+OptimizationFunction2D.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1403/trunk/Sources/Genetic/Fitness%20Functions/OptimizationFunction2D.cs
+END

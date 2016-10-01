@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1715/trunk/Sources/Robotics.Lego
+END
+Lego.sln
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1635/trunk/Sources/Robotics.Lego/Lego.sln
+END
+Lego.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1635/trunk/Sources/Robotics.Lego/Lego.csproj
+END
+AForge.Robotics.Lego.snk
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/952/trunk/Sources/Robotics.Lego/AForge.Robotics.Lego.snk
+END
+NXTBrick.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1524/trunk/Sources/Robotics.Lego/NXTBrick.cs
+END
+RCXBrick.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1714/trunk/Sources/Robotics.Lego/RCXBrick.cs
+END

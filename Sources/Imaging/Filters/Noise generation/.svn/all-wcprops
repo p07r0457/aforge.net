@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1403/trunk/Sources/Imaging/Filters/Noise%20generation
+END
+AdditiveNoise.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1403/trunk/Sources/Imaging/Filters/Noise%20generation/AdditiveNoise.cs
+END
+SaltAndPepperNoise.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1278/trunk/Sources/Imaging/Filters/Noise%20generation/SaltAndPepperNoise.cs
+END

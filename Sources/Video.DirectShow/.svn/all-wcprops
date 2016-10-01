@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1733/trunk/Sources/Video.DirectShow
+END
+FileVideoSource.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1671/trunk/Sources/Video.DirectShow/FileVideoSource.cs
+END
+PhysicalConnectorType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1662/trunk/Sources/Video.DirectShow/PhysicalConnectorType.cs
+END
+Uuids.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1066/trunk/Sources/Video.DirectShow/Uuids.cs
+END
+VideoCaptureDeviceForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1665/trunk/Sources/Video.DirectShow/VideoCaptureDeviceForm.Designer.cs
+END
+VideoCaptureDeviceForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1704/trunk/Sources/Video.DirectShow/VideoCaptureDeviceForm.cs
+END
+CameraControlProperty.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1706/trunk/Sources/Video.DirectShow/CameraControlProperty.cs
+END
+FilterInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1685/trunk/Sources/Video.DirectShow/FilterInfo.cs
+END
+Video.DirectShow.sln
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1635/trunk/Sources/Video.DirectShow/Video.DirectShow.sln
+END
+AForge.Video.DirectShow.snk
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/952/trunk/Sources/Video.DirectShow/AForge.Video.DirectShow.snk
+END
+VideoCaptureDevice.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1733/trunk/Sources/Video.DirectShow/VideoCaptureDevice.cs
+END
+VideoCaptureDeviceForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1574/trunk/Sources/Video.DirectShow/VideoCaptureDeviceForm.resx
+END
+Video.DirectShow.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1706/trunk/Sources/Video.DirectShow/Video.DirectShow.csproj
+END
+FilterInfoCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/952/trunk/Sources/Video.DirectShow/FilterInfoCollection.cs
+END
+VideoCapabilities.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1705/trunk/Sources/Video.DirectShow/VideoCapabilities.cs
+END
+VideoInput.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1663/trunk/Sources/Video.DirectShow/VideoInput.cs
+END

@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 34
+bin
+obj
+*.suo
+*.xml
+*.csproj.user
+
+END

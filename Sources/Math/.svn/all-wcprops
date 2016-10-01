@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/1730/trunk/Sources/Math
+END
+Vector4.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1711/trunk/Sources/Math/Vector4.cs
+END
+PerlinNoise.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1020/trunk/Sources/Math/PerlinNoise.cs
+END
+Statistics.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1730/trunk/Sources/Math/Statistics.cs
+END
+Math (mono).sln
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1015/trunk/Sources/Math/Math%20(mono).sln
+END
+SVD.cs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1729/trunk/Sources/Math/SVD.cs
+END
+Histogram.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1595/trunk/Sources/Math/Histogram.cs
+END
+Math (mono).csproj
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1444/trunk/Sources/Math/Math%20(mono).csproj
+END
+Tools.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1333/trunk/Sources/Math/Tools.cs
+END
+Matrix3x3.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1711/trunk/Sources/Math/Matrix3x3.cs
+END
+Matrix4x4.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1711/trunk/Sources/Math/Matrix4x4.cs
+END
+Complex.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1651/trunk/Sources/Math/Complex.cs
+END
+FourierTransform.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1066/trunk/Sources/Math/FourierTransform.cs
+END
+Gaussian.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1020/trunk/Sources/Math/Gaussian.cs
+END
+Math.sln
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1635/trunk/Sources/Math/Math.sln
+END
+AForge.Math.snk
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/952/trunk/Sources/Math/AForge.Math.snk
+END
+Math.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1635/trunk/Sources/Math/Math.csproj
+END
+ContinuousHistogram.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1595/trunk/Sources/Math/ContinuousHistogram.cs
+END
+Vector3.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1711/trunk/Sources/Math/Vector3.cs
+END

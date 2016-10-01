@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1357/trunk/Sources/Math/Metrics
+END
+ISimilarity.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1340/trunk/Sources/Math/Metrics/ISimilarity.cs
+END
+EuclideanSimilarity.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1356/trunk/Sources/Math/Metrics/EuclideanSimilarity.cs
+END
+JaccardDistance.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1356/trunk/Sources/Math/Metrics/JaccardDistance.cs
+END
+IDistance.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1340/trunk/Sources/Math/Metrics/IDistance.cs
+END
+EuclideanDistance.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1340/trunk/Sources/Math/Metrics/EuclideanDistance.cs
+END
+ManhattanDistance.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1340/trunk/Sources/Math/Metrics/ManhattanDistance.cs
+END
+CosineSimilarity.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1357/trunk/Sources/Math/Metrics/CosineSimilarity.cs
+END
+PearsonCorrelation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1357/trunk/Sources/Math/Metrics/PearsonCorrelation.cs
+END
+HammingDistance.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1340/trunk/Sources/Math/Metrics/HammingDistance.cs
+END
+CosineDistance.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1356/trunk/Sources/Math/Metrics/CosineDistance.cs
+END

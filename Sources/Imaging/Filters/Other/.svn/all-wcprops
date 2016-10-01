@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1684/trunk/Sources/Imaging/Filters/Other
+END
+CanvasCrop.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1278/trunk/Sources/Imaging/Filters/Other/CanvasCrop.cs
+END
+ApplyMask.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1601/trunk/Sources/Imaging/Filters/Other/ApplyMask.cs
+END
+Jitter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1278/trunk/Sources/Imaging/Filters/Other/Jitter.cs
+END
+CanvasMove.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1535/trunk/Sources/Imaging/Filters/Other/CanvasMove.cs
+END
+BlobsFiltering.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1326/trunk/Sources/Imaging/Filters/Other/BlobsFiltering.cs
+END
+WaterWave.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1278/trunk/Sources/Imaging/Filters/Other/WaterWave.cs
+END
+ConnectedComponentsLabeling.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1278/trunk/Sources/Imaging/Filters/Other/ConnectedComponentsLabeling.cs
+END
+HorizontalRunLengthSmoothing.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1684/trunk/Sources/Imaging/Filters/Other/HorizontalRunLengthSmoothing.cs
+END
+TexturedFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1278/trunk/Sources/Imaging/Filters/Other/TexturedFilter.cs
+END
+MaskedFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1601/trunk/Sources/Imaging/Filters/Other/MaskedFilter.cs
+END
+Mirror.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1278/trunk/Sources/Imaging/Filters/Other/Mirror.cs
+END
+ImageWarp.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1330/trunk/Sources/Imaging/Filters/Other/ImageWarp.cs
+END
+CornersMarker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1341/trunk/Sources/Imaging/Filters/Other/CornersMarker.cs
+END
+OilPainting.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1278/trunk/Sources/Imaging/Filters/Other/OilPainting.cs
+END
+ExtractBiggestBlob.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1371/trunk/Sources/Imaging/Filters/Other/ExtractBiggestBlob.cs
+END
+FillHoles.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1358/trunk/Sources/Imaging/Filters/Other/FillHoles.cs
+END
+CanvasFill.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1278/trunk/Sources/Imaging/Filters/Other/CanvasFill.cs
+END
+Texturer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1278/trunk/Sources/Imaging/Filters/Other/Texturer.cs
+END
+TexturedMerge.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1278/trunk/Sources/Imaging/Filters/Other/TexturedMerge.cs
+END
+Pixellate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1278/trunk/Sources/Imaging/Filters/Other/Pixellate.cs
+END
+VerticalRunLengthSmoothing.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1684/trunk/Sources/Imaging/Filters/Other/VerticalRunLengthSmoothing.cs
+END
+SimpleSkeletonization.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1278/trunk/Sources/Imaging/Filters/Other/SimpleSkeletonization.cs
+END

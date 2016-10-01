@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1636/trunk/Samples/Genetic/TSP
+END
+TSP.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1636/trunk/Samples/Genetic/TSP/TSP.csproj
+END
+TSPChromosome.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1495/trunk/Samples/Genetic/TSP/TSPChromosome.cs
+END
+MainForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/952/trunk/Samples/Genetic/TSP/MainForm.resx
+END
+App.ico
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/952/trunk/Samples/Genetic/TSP/App.ico
+END
+MainForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1495/trunk/Samples/Genetic/TSP/MainForm.cs
+END
+TSPFitnessFunction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/952/trunk/Samples/Genetic/TSP/TSPFitnessFunction.cs
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1291/trunk/Samples/Genetic/TSP/AssemblyInfo.cs
+END
+TSP.sln
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1636/trunk/Samples/Genetic/TSP/TSP.sln
+END

@@ -1,0 +1,286 @@
+10
+
+dir
+1734
+http://aforge.googlecode.com/svn/trunk/Sources/Imaging/Filters
+http://aforge.googlecode.com/svn
+
+
+
+2014-03-03T11:20:25.238106Z
+1728
+andrew.kirillov@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ab5b2c17-5f1b-0410-93cd-b5c26ce635c7
+
+IlluminationCorrection
+dir
+
+Color Segmentation
+dir
+
+IInPlaceFilter.cs
+file
+
+
+
+
+2016-01-08T02:06:58.271855Z
+f319940f6d6c1b3cae792f82c56149a2
+2008-09-11T06:15:47.219023Z
+667
+andrew.kirillov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1976
+
+Morphology
+dir
+
+Normalized RGB
+dir
+
+Smooting
+dir
+
+IFilter.cs
+file
+
+
+
+
+2016-01-08T02:06:58.271855Z
+02c836bf6cb9aff72d05d15205d77843
+2011-02-23T13:45:21.608319Z
+1389
+andrew.kirillov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3365
+
+FilterIterator.cs
+file
+
+
+
+
+2016-01-08T02:06:58.271855Z
+8641b095757f47772c8b15b89e5c22e1
+2011-02-23T13:45:21.608319Z
+1389
+andrew.kirillov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10710
+
+FiltersSequence.cs
+file
+
+
+
+
+2016-01-08T02:06:58.271855Z
+701d3a8fdb9212cfdc5d8920b92af545
+2011-02-23T13:45:21.608319Z
+1389
+andrew.kirillov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8543
+
+Adaptive Binarization
+dir
+
+Color Filters
+dir
+
+IFilterInformation.cs
+file
+
+
+
+
+2016-01-08T02:06:58.271855Z
+cf80e37b1178811fb9fe27c68b4e60e1
+2010-07-08T14:08:44.956348Z
+1278
+andrew.kirillov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2833
+
+2 Source filters
+dir
+
+Transform
+dir
+
+IInPlacePartialFilter.cs
+file
+
+
+
+
+2016-01-08T02:06:58.271855Z
+9c4aab9eb8c4569a8d31aeb8fd9d61a5
+2008-09-11T06:15:47.219023Z
+667
+andrew.kirillov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2473
+
+HSL Filters
+dir
+
+Convolution
+dir
+
+Other
+dir
+
+Edge Detectors
+dir
+
+Flood Fillers
+dir
+
+Base classes
+dir
+
+Binarization
+dir
+
+Noise generation
+dir
+
+YCbCr Filters
+dir
+

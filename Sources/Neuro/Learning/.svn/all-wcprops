@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1731/trunk/Sources/Neuro/Learning
+END
+EvolutionaryFitness.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1655/trunk/Sources/Neuro/Learning/EvolutionaryFitness.cs
+END
+ElasticNetworkLearning.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1731/trunk/Sources/Neuro/Learning/ElasticNetworkLearning.cs
+END
+SOMLearning.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1655/trunk/Sources/Neuro/Learning/SOMLearning.cs
+END
+EvolutionaryLearning.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1655/trunk/Sources/Neuro/Learning/EvolutionaryLearning.cs
+END
+DeltaRuleLearning.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1655/trunk/Sources/Neuro/Learning/DeltaRuleLearning.cs
+END
+PerceptronLearning.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1655/trunk/Sources/Neuro/Learning/PerceptronLearning.cs
+END
+ISupervisedLearning.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1655/trunk/Sources/Neuro/Learning/ISupervisedLearning.cs
+END
+ResilientBackPropagationLearning.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1659/trunk/Sources/Neuro/Learning/ResilientBackPropagationLearning.cs
+END
+BackPropagationLearning.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1659/trunk/Sources/Neuro/Learning/BackPropagationLearning.cs
+END
+IUnsupervisedLearning.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1655/trunk/Sources/Neuro/Learning/IUnsupervisedLearning.cs
+END

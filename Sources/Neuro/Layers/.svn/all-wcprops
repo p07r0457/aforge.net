@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1655/trunk/Sources/Neuro/Layers
+END
+DistanceLayer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1655/trunk/Sources/Neuro/Layers/DistanceLayer.cs
+END
+Layer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1655/trunk/Sources/Neuro/Layers/Layer.cs
+END
+ActivationLayer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1655/trunk/Sources/Neuro/Layers/ActivationLayer.cs
+END

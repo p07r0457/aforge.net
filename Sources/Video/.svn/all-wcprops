@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/1726/trunk/Sources/Video
+END
+Video.sln
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1635/trunk/Sources/Video/Video.sln
+END
+AForge.Video.snk
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/952/trunk/Sources/Video/AForge.Video.snk
+END
+MJPEGStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1692/trunk/Sources/Video/MJPEGStream.cs
+END
+ScreenCaptureStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1699/trunk/Sources/Video/ScreenCaptureStream.cs
+END
+IVideoSource.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1627/trunk/Sources/Video/IVideoSource.cs
+END
+JPEGStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1691/trunk/Sources/Video/JPEGStream.cs
+END
+Video.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1699/trunk/Sources/Video/Video.csproj
+END
+Exceptions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1438/trunk/Sources/Video/Exceptions.cs
+END
+ByteArrayUtils.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1066/trunk/Sources/Video/ByteArrayUtils.cs
+END
+AsyncVideoSource.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1726/trunk/Sources/Video/AsyncVideoSource.cs
+END
+Video (mono).sln
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1015/trunk/Sources/Video/Video%20(mono).sln
+END
+Video (mono).csproj
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1438/trunk/Sources/Video/Video%20(mono).csproj
+END
+VideoEvents.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1510/trunk/Sources/Video/VideoEvents.cs
+END

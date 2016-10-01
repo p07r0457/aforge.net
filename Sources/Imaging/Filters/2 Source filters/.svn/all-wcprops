@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1530/trunk/Sources/Imaging/Filters/2%20Source%20filters
+END
+ThresholdedDifference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1362/trunk/Sources/Imaging/Filters/2%20Source%20filters/ThresholdedDifference.cs
+END
+Intersect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1530/trunk/Sources/Imaging/Filters/2%20Source%20filters/Intersect.cs
+END
+StereoAnaglyph.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1278/trunk/Sources/Imaging/Filters/2%20Source%20filters/StereoAnaglyph.cs
+END
+Morph.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1278/trunk/Sources/Imaging/Filters/2%20Source%20filters/Morph.cs
+END
+Subtract.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1530/trunk/Sources/Imaging/Filters/2%20Source%20filters/Subtract.cs
+END
+Add.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1530/trunk/Sources/Imaging/Filters/2%20Source%20filters/Add.cs
+END
+Difference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1530/trunk/Sources/Imaging/Filters/2%20Source%20filters/Difference.cs
+END
+ThresholdedEuclideanDifference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1362/trunk/Sources/Imaging/Filters/2%20Source%20filters/ThresholdedEuclideanDifference.cs
+END
+MoveTowards.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1530/trunk/Sources/Imaging/Filters/2%20Source%20filters/MoveTowards.cs
+END
+Merge.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1530/trunk/Sources/Imaging/Filters/2%20Source%20filters/Merge.cs
+END

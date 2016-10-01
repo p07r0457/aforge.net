@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1488/trunk/Sources/Robotics.Lego/Internals
+END
+INXTCommunicationInterface.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/952/trunk/Sources/Robotics.Lego/Internals/INXTCommunicationInterface.cs
+END
+NXTCommands.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1065/trunk/Sources/Robotics.Lego/Internals/NXTCommands.cs
+END
+GhostAPI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1066/trunk/Sources/Robotics.Lego/Internals/GhostAPI.cs
+END
+RCXCommands.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/952/trunk/Sources/Robotics.Lego/Internals/RCXCommands.cs
+END
+SerialCommunication.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1488/trunk/Sources/Robotics.Lego/Internals/SerialCommunication.cs
+END

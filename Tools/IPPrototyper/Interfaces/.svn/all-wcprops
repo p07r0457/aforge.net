@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1676/trunk/Tools/IPPrototyper/Interfaces
+END
+Interfaces.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1635/trunk/Tools/IPPrototyper/Interfaces/Interfaces.csproj
+END
+IImageProcessingRoutine.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1462/trunk/Tools/IPPrototyper/Interfaces/IImageProcessingRoutine.cs
+END
+ImageProcessingLog.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1462/trunk/Tools/IPPrototyper/Interfaces/ImageProcessingLog.cs
+END
+AForge.Imaging.IPPrototyper.snk
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1462/trunk/Tools/IPPrototyper/Interfaces/AForge.Imaging.IPPrototyper.snk
+END
+IImageProcessingLog.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1462/trunk/Tools/IPPrototyper/Interfaces/IImageProcessingLog.cs
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1701/trunk/Unit%20Tests/AForge.Math.Tests/Geometry
+END
+GeometryToolsTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1402/trunk/Unit%20Tests/AForge.Math.Tests/Geometry/GeometryToolsTest.cs
+END
+ClosePointsMergingOptimizerTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1281/trunk/Unit%20Tests/AForge.Math.Tests/Geometry/ClosePointsMergingOptimizerTest.cs
+END
+ShapeOptimizerTestBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1281/trunk/Unit%20Tests/AForge.Math.Tests/Geometry/ShapeOptimizerTestBase.cs
+END
+SimpleShapeCheckerTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1281/trunk/Unit%20Tests/AForge.Math.Tests/Geometry/SimpleShapeCheckerTest.cs
+END
+LineStraighteningOptimizerTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1281/trunk/Unit%20Tests/AForge.Math.Tests/Geometry/LineStraighteningOptimizerTest.cs
+END
+FlatAnglesOptimizerTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1281/trunk/Unit%20Tests/AForge.Math.Tests/Geometry/FlatAnglesOptimizerTest.cs
+END
+GrahamConvexHullTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1701/trunk/Unit%20Tests/AForge.Math.Tests/Geometry/GrahamConvexHullTest.cs
+END
+LineTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1402/trunk/Unit%20Tests/AForge.Math.Tests/Geometry/LineTest.cs
+END
+LineSegmentTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1402/trunk/Unit%20Tests/AForge.Math.Tests/Geometry/LineSegmentTest.cs
+END

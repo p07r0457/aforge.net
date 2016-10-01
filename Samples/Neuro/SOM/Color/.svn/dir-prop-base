@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 21
+bin
+obj
+*.suo
+*.user
+
+END

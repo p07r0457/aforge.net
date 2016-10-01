@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1440/trunk/Externals/msinttypes
+END
+changelog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1440/trunk/Externals/msinttypes/changelog.txt
+END
+inttypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1440/trunk/Externals/msinttypes/inttypes.h
+END
+stdint.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1440/trunk/Externals/msinttypes/stdint.h
+END
+AForge ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1440/trunk/Externals/msinttypes/AForge%20ReadMe.txt
+END

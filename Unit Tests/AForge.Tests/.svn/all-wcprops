@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1635/trunk/Unit%20Tests/AForge.Tests
+END
+IntPointTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1329/trunk/Unit%20Tests/AForge.Tests/IntPointTest.cs
+END
+IntRangeTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1419/trunk/Unit%20Tests/AForge.Tests/IntRangeTest.cs
+END
+PointTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1402/trunk/Unit%20Tests/AForge.Tests/PointTest.cs
+END
+RangeTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1419/trunk/Unit%20Tests/AForge.Tests/RangeTest.cs
+END
+AForge.Tests.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1635/trunk/Unit%20Tests/AForge.Tests/AForge.Tests.csproj
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1636/trunk/Samples/Imaging/ImageViewer
+END
+MainForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/952/trunk/Samples/Imaging/ImageViewer/MainForm.resx
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/952/trunk/Samples/Imaging/ImageViewer/Program.cs
+END
+MainForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/952/trunk/Samples/Imaging/ImageViewer/MainForm.Designer.cs
+END
+MainForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1495/trunk/Samples/Imaging/ImageViewer/MainForm.cs
+END
+ImageViewer.sln
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1636/trunk/Samples/Imaging/ImageViewer/ImageViewer.sln
+END
+ImageViewer.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1636/trunk/Samples/Imaging/ImageViewer/ImageViewer.csproj
+END

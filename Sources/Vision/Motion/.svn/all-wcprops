@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1732/trunk/Sources/Vision/Motion
+END
+MotionDetector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1538/trunk/Sources/Vision/Motion/MotionDetector.cs
+END
+GridMotionAreaProcessing.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1732/trunk/Sources/Vision/Motion/GridMotionAreaProcessing.cs
+END
+SimpleBackgroundModelingDetector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1596/trunk/Sources/Vision/Motion/SimpleBackgroundModelingDetector.cs
+END
+MotionAreaHighlighting.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1697/trunk/Sources/Vision/Motion/MotionAreaHighlighting.cs
+END
+IMotionDetector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1002/trunk/Sources/Vision/Motion/IMotionDetector.cs
+END
+MotionBorderHighlighting.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1697/trunk/Sources/Vision/Motion/MotionBorderHighlighting.cs
+END
+CustomFrameDifferenceDetector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1596/trunk/Sources/Vision/Motion/CustomFrameDifferenceDetector.cs
+END
+IMotionProcessing.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/995/trunk/Sources/Vision/Motion/IMotionProcessing.cs
+END
+TwoFramesDifferenceDetector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1596/trunk/Sources/Vision/Motion/TwoFramesDifferenceDetector.cs
+END
+BlobCountingObjectsProcessing.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1697/trunk/Sources/Vision/Motion/BlobCountingObjectsProcessing.cs
+END

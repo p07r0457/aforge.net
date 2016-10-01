@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1702/trunk/Externals/ffmpeg/include/libavcodec
+END
+xvmc.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1643/trunk/Externals/ffmpeg/include/libavcodec/xvmc.h
+END
+vdpau.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1643/trunk/Externals/ffmpeg/include/libavcodec/vdpau.h
+END
+vaapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1643/trunk/Externals/ffmpeg/include/libavcodec/vaapi.h
+END
+opt.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1643/trunk/Externals/ffmpeg/include/libavcodec/opt.h
+END
+dxva2.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1702/trunk/Externals/ffmpeg/include/libavcodec/dxva2.h
+END
+avcodec.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1702/trunk/Externals/ffmpeg/include/libavcodec/avcodec.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1702/trunk/Externals/ffmpeg/include/libavcodec/version.h
+END
+avfft.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1440/trunk/Externals/ffmpeg/include/libavcodec/avfft.h
+END
+vda.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1702/trunk/Externals/ffmpeg/include/libavcodec/vda.h
+END

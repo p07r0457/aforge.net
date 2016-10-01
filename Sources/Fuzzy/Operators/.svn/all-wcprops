@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1403/trunk/Sources/Fuzzy/Operators
+END
+IUnaryOperator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1403/trunk/Sources/Fuzzy/Operators/IUnaryOperator.cs
+END
+INorm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1403/trunk/Sources/Fuzzy/Operators/INorm.cs
+END
+ICoNorm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1403/trunk/Sources/Fuzzy/Operators/ICoNorm.cs
+END
+MinimumNorm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1403/trunk/Sources/Fuzzy/Operators/MinimumNorm.cs
+END
+MaximumCoNorm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1403/trunk/Sources/Fuzzy/Operators/MaximumCoNorm.cs
+END
+ProductNorm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1403/trunk/Sources/Fuzzy/Operators/ProductNorm.cs
+END
+NotOperator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1403/trunk/Sources/Fuzzy/Operators/NotOperator.cs
+END

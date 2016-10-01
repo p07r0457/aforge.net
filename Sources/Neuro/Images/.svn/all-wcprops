@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1020/trunk/Sources/Neuro/Images
+END
+sigmoid.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/952/trunk/Sources/Neuro/Images/sigmoid.bmp
+END
+threshold.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/952/trunk/Sources/Neuro/Images/threshold.bmp
+END
+sigmoid_bipolar.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/952/trunk/Sources/Neuro/Images/sigmoid_bipolar.bmp
+END

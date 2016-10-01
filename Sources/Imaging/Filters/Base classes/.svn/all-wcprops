@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1687/trunk/Sources/Imaging/Filters/Base%20classes
+END
+BaseResizeFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1020/trunk/Sources/Imaging/Filters/Base%20classes/BaseResizeFilter.cs
+END
+BaseFilter2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1361/trunk/Sources/Imaging/Filters/Base%20classes/BaseFilter2.cs
+END
+BaseTransformationFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1687/trunk/Sources/Imaging/Filters/Base%20classes/BaseTransformationFilter.cs
+END
+BaseInPlacePartialFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1687/trunk/Sources/Imaging/Filters/Base%20classes/BaseInPlacePartialFilter.cs
+END
+BaseInPlaceFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1687/trunk/Sources/Imaging/Filters/Base%20classes/BaseInPlaceFilter.cs
+END
+BaseInPlaceFilter2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/955/trunk/Sources/Imaging/Filters/Base%20classes/BaseInPlaceFilter2.cs
+END
+BaseUsingCopyPartialFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1687/trunk/Sources/Imaging/Filters/Base%20classes/BaseUsingCopyPartialFilter.cs
+END
+BaseRotateFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1020/trunk/Sources/Imaging/Filters/Base%20classes/BaseRotateFilter.cs
+END
+BaseFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1687/trunk/Sources/Imaging/Filters/Base%20classes/BaseFilter.cs
+END

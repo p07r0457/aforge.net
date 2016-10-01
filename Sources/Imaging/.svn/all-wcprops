@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1728/trunk/Sources/Imaging
+END
+ColorConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1703/trunk/Sources/Imaging/ColorConverter.cs
+END
+HoughLineTransformation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1316/trunk/Sources/Imaging/HoughLineTransformation.cs
+END
+BlobCounterBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1689/trunk/Sources/Imaging/BlobCounterBase.cs
+END
+HorizontalIntensityStatistics.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1530/trunk/Sources/Imaging/HorizontalIntensityStatistics.cs
+END
+ExhaustiveBlockMatching.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1153/trunk/Sources/Imaging/ExhaustiveBlockMatching.cs
+END
+Imaging (mono).sln
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1015/trunk/Sources/Imaging/Imaging%20(mono).sln
+END
+ICornersDetector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1125/trunk/Sources/Imaging/ICornersDetector.cs
+END
+BlobCounter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1671/trunk/Sources/Imaging/BlobCounter.cs
+END
+Blob.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1653/trunk/Sources/Imaging/Blob.cs
+END
+SusanCornersDetector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1243/trunk/Sources/Imaging/SusanCornersDetector.cs
+END
+IBlobsFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1326/trunk/Sources/Imaging/IBlobsFilter.cs
+END
+Imaging (mono).csproj
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1672/trunk/Sources/Imaging/Imaging%20(mono).csproj
+END
+Exceptions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1700/trunk/Sources/Imaging/Exceptions.cs
+END
+Image.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1530/trunk/Sources/Imaging/Image.cs
+END
+QuadrilateralFinder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1125/trunk/Sources/Imaging/QuadrilateralFinder.cs
+END
+ImageStatistics.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1473/trunk/Sources/Imaging/ImageStatistics.cs
+END
+Imaging.sln
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1635/trunk/Sources/Imaging/Imaging.sln
+END
+AForge.Imaging.snk
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/952/trunk/Sources/Imaging/AForge.Imaging.snk
+END
+RecursiveBlobCounter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1660/trunk/Sources/Imaging/RecursiveBlobCounter.cs
+END
+Imaging.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1672/trunk/Sources/Imaging/Imaging.csproj
+END
+BlockMatch.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1125/trunk/Sources/Imaging/BlockMatch.cs
+END
+IntegralImage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1631/trunk/Sources/Imaging/IntegralImage.cs
+END
+ComplexImage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1020/trunk/Sources/Imaging/ComplexImage.cs
+END
+IBlockMatching.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1125/trunk/Sources/Imaging/IBlockMatching.cs
+END
+ImageStatisticsYCbCr.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1473/trunk/Sources/Imaging/ImageStatisticsYCbCr.cs
+END
+MoravecCornersDetector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1341/trunk/Sources/Imaging/MoravecCornersDetector.cs
+END
+HoughCircleTransformation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1168/trunk/Sources/Imaging/HoughCircleTransformation.cs
+END
+Interpolation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1369/trunk/Sources/Imaging/Interpolation.cs
+END
+TemplateMatch.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1020/trunk/Sources/Imaging/TemplateMatch.cs
+END
+Drawing.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1642/trunk/Sources/Imaging/Drawing.cs
+END
+VerticalIntensityStatistics.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1530/trunk/Sources/Imaging/VerticalIntensityStatistics.cs
+END
+ExhaustiveTemplateMatching.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1020/trunk/Sources/Imaging/ExhaustiveTemplateMatching.cs
+END
+DocumentSkewChecker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1317/trunk/Sources/Imaging/DocumentSkewChecker.cs
+END
+ITemplateMatching.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1020/trunk/Sources/Imaging/ITemplateMatching.cs
+END
+UnmanagedImage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1712/trunk/Sources/Imaging/UnmanagedImage.cs
+END
+MemoryManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1066/trunk/Sources/Imaging/MemoryManager.cs
+END
+ImageStatisticsHSL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1474/trunk/Sources/Imaging/ImageStatisticsHSL.cs
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1634/trunk/Sources/Imaging/Filters/Convolution
+END
+Edges.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1020/trunk/Sources/Imaging/Filters/Convolution/Edges.cs
+END
+SharpenEx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1020/trunk/Sources/Imaging/Filters/Convolution/SharpenEx.cs
+END
+Convolution.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1634/trunk/Sources/Imaging/Filters/Convolution/Convolution.cs
+END
+GaussianBlur.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1634/trunk/Sources/Imaging/Filters/Convolution/GaussianBlur.cs
+END
+Mean.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1634/trunk/Sources/Imaging/Filters/Convolution/Mean.cs
+END
+Sharpen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1020/trunk/Sources/Imaging/Filters/Convolution/Sharpen.cs
+END
+Blur.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1634/trunk/Sources/Imaging/Filters/Convolution/Blur.cs
+END

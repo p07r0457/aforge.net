@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1702/trunk/Externals/ffmpeg/lib
+END
+avfilter.lib
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1702/trunk/Externals/ffmpeg/lib/avfilter.lib
+END
+avformat.lib
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1702/trunk/Externals/ffmpeg/lib/avformat.lib
+END
+swscale.lib
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1702/trunk/Externals/ffmpeg/lib/swscale.lib
+END
+swresample.lib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1702/trunk/Externals/ffmpeg/lib/swresample.lib
+END
+avutil.lib
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1702/trunk/Externals/ffmpeg/lib/avutil.lib
+END
+avcodec.lib
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1702/trunk/Externals/ffmpeg/lib/avcodec.lib
+END
+avdevice.lib
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1702/trunk/Externals/ffmpeg/lib/avdevice.lib
+END
+postproc.lib
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1702/trunk/Externals/ffmpeg/lib/postproc.lib
+END

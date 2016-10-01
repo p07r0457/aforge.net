@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1708/trunk/Sources/Video.DirectShow/Internals
+END
+IAMCameraControl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1708/trunk/Sources/Video.DirectShow/Internals/IAMCameraControl.cs
+END
+IFilterGraph.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/952/trunk/Sources/Video.DirectShow/Internals/IFilterGraph.cs
+END
+IGraphBuilder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/952/trunk/Sources/Video.DirectShow/Internals/IGraphBuilder.cs
+END
+IReferenceClock.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1246/trunk/Sources/Video.DirectShow/Internals/IReferenceClock.cs
+END
+Structures.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1704/trunk/Sources/Video.DirectShow/Internals/Structures.cs
+END
+ISampleGrabberCB.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/952/trunk/Sources/Video.DirectShow/Internals/ISampleGrabberCB.cs
+END
+ICaptureGraphBuilder2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/952/trunk/Sources/Video.DirectShow/Internals/ICaptureGraphBuilder2.cs
+END
+IMediaEventEx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1425/trunk/Sources/Video.DirectShow/Internals/IMediaEventEx.cs
+END
+Uuids.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1704/trunk/Sources/Video.DirectShow/Internals/Uuids.cs
+END
+IBaseFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/952/trunk/Sources/Video.DirectShow/Internals/IBaseFilter.cs
+END
+IMediaControl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/952/trunk/Sources/Video.DirectShow/Internals/IMediaControl.cs
+END
+IAMVideoControl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1426/trunk/Sources/Video.DirectShow/Internals/IAMVideoControl.cs
+END
+IMediaFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1246/trunk/Sources/Video.DirectShow/Internals/IMediaFilter.cs
+END
+IPin.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/952/trunk/Sources/Video.DirectShow/Internals/IPin.cs
+END
+ICreateDevEnum.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/952/trunk/Sources/Video.DirectShow/Internals/ICreateDevEnum.cs
+END
+ISpecifyPropertyPages.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/952/trunk/Sources/Video.DirectShow/Internals/ISpecifyPropertyPages.cs
+END
+Tools.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1185/trunk/Sources/Video.DirectShow/Internals/Tools.cs
+END
+Win32.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1496/trunk/Sources/Video.DirectShow/Internals/Win32.cs
+END
+IFilterGraph2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1580/trunk/Sources/Video.DirectShow/Internals/IFilterGraph2.cs
+END
+IPersist.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1246/trunk/Sources/Video.DirectShow/Internals/IPersist.cs
+END
+IAMCrossbar.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1662/trunk/Sources/Video.DirectShow/Internals/IAMCrossbar.cs
+END
+IEnumFilters.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/952/trunk/Sources/Video.DirectShow/Internals/IEnumFilters.cs
+END
+IPropertyBag.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/952/trunk/Sources/Video.DirectShow/Internals/IPropertyBag.cs
+END
+IVideoWindow.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/952/trunk/Sources/Video.DirectShow/Internals/IVideoWindow.cs
+END
+IEnumPins.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/952/trunk/Sources/Video.DirectShow/Internals/IEnumPins.cs
+END
+IAMStreamConfig.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1580/trunk/Sources/Video.DirectShow/Internals/IAMStreamConfig.cs
+END
+IFileSourceFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/952/trunk/Sources/Video.DirectShow/Internals/IFileSourceFilter.cs
+END
+ISampleGrabber.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/952/trunk/Sources/Video.DirectShow/Internals/ISampleGrabber.cs
+END

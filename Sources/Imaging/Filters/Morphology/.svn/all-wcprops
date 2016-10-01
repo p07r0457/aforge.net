@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1727/trunk/Sources/Imaging/Filters/Morphology
+END
+Closing.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1389/trunk/Sources/Imaging/Filters/Morphology/Closing.cs
+END
+Erosion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1727/trunk/Sources/Imaging/Filters/Morphology/Erosion.cs
+END
+Opening.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1389/trunk/Sources/Imaging/Filters/Morphology/Opening.cs
+END
+TopHat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1389/trunk/Sources/Imaging/Filters/Morphology/TopHat.cs
+END
+BottomHat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1278/trunk/Sources/Imaging/Filters/Morphology/BottomHat.cs
+END
+HitAndMiss.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1278/trunk/Sources/Imaging/Filters/Morphology/HitAndMiss.cs
+END
+Dilatation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1727/trunk/Sources/Imaging/Filters/Morphology/Dilatation.cs
+END

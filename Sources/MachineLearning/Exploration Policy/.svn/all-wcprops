@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1020/trunk/Sources/MachineLearning/Exploration%20Policy
+END
+IExplorationPolicy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/952/trunk/Sources/MachineLearning/Exploration%20Policy/IExplorationPolicy.cs
+END
+RouletteWheelExploration.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/952/trunk/Sources/MachineLearning/Exploration%20Policy/RouletteWheelExploration.cs
+END
+EpsilonGreedyExploration.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/952/trunk/Sources/MachineLearning/Exploration%20Policy/EpsilonGreedyExploration.cs
+END
+TabuSearchExploration.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/952/trunk/Sources/MachineLearning/Exploration%20Policy/TabuSearchExploration.cs
+END
+BoltzmannExploration.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/952/trunk/Sources/MachineLearning/Exploration%20Policy/BoltzmannExploration.cs
+END

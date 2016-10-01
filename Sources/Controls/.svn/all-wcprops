@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1715/trunk/Sources/Controls
+END
+PictureBox.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1565/trunk/Sources/Controls/PictureBox.cs
+END
+JoystickAPI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1182/trunk/Sources/Controls/JoystickAPI.cs
+END
+Controls.sln
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1635/trunk/Sources/Controls/Controls.sln
+END
+ManipulatorControl.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1164/trunk/Sources/Controls/ManipulatorControl.Designer.cs
+END
+HuePicker.resx
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1431/trunk/Sources/Controls/HuePicker.resx
+END
+AForge.Controls.snk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/952/trunk/Sources/Controls/AForge.Controls.snk
+END
+ManipulatorControl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1197/trunk/Sources/Controls/ManipulatorControl.cs
+END
+ColorSlider.resx
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/952/trunk/Sources/Controls/ColorSlider.resx
+END
+Histogram.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1150/trunk/Sources/Controls/Histogram.cs
+END
+Controls.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1635/trunk/Sources/Controls/Controls.csproj
+END
+Joystick.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1184/trunk/Sources/Controls/Joystick.cs
+END
+SliderControl.resx
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1192/trunk/Sources/Controls/SliderControl.resx
+END
+Chart.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1654/trunk/Sources/Controls/Chart.cs
+END
+VideoSourcePlayer.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/952/trunk/Sources/Controls/VideoSourcePlayer.Designer.cs
+END
+VideoSourcePlayer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1709/trunk/Sources/Controls/VideoSourcePlayer.cs
+END
+ManipulatorControl.resx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1164/trunk/Sources/Controls/ManipulatorControl.resx
+END
+Histogram.resx
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1020/trunk/Sources/Controls/Histogram.resx
+END
+Chart.resx
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1020/trunk/Sources/Controls/Chart.resx
+END
+HuePicker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1436/trunk/Sources/Controls/HuePicker.cs
+END
+VideoSourcePlayer.resx
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/952/trunk/Sources/Controls/VideoSourcePlayer.resx
+END
+ColorSlider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1431/trunk/Sources/Controls/ColorSlider.cs
+END
+SliderControl.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1192/trunk/Sources/Controls/SliderControl.Designer.cs
+END
+SliderControl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1193/trunk/Sources/Controls/SliderControl.cs
+END

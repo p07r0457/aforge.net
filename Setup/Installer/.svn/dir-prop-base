@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 13
+Files
+Output
+
+K 13
+svn:mergeinfo
+V 167
+/branches/2.1/Sources/Setup Project:1038-1124
+/branches/2.2/Sources/Setup Project:1227,1237,1257
+/branches/fabio.caversan/Sources/Setup Project:983-1019,1158-1160,1166
+END

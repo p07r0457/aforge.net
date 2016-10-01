@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/1715/trunk/Sources/Core
+END
+IntPoint.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1686/trunk/Sources/Core/IntPoint.cs
+END
+SystemTools.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1453/trunk/Sources/Core/SystemTools.cs
+END
+IntRange.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1529/trunk/Sources/Core/IntRange.cs
+END
+ThreadSafeRandom.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1640/trunk/Sources/Core/ThreadSafeRandom.cs
+END
+PolishExpression.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1066/trunk/Sources/Core/PolishExpression.cs
+END
+Core.sln
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1635/trunk/Sources/Core/Core.sln
+END
+Exceptions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1479/trunk/Sources/Core/Exceptions.cs
+END
+Core.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1639/trunk/Sources/Core/Core.csproj
+END
+DoublePoint.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1686/trunk/Sources/Core/DoublePoint.cs
+END
+DoubleRange.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1529/trunk/Sources/Core/DoubleRange.cs
+END
+Point.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1686/trunk/Sources/Core/Point.cs
+END
+AForge.snk
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/952/trunk/Sources/Core/AForge.snk
+END
+Core (mono).sln
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1011/trunk/Sources/Core/Core%20(mono).sln
+END
+Range.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1529/trunk/Sources/Core/Range.cs
+END
+Parallel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1694/trunk/Sources/Core/Parallel.cs
+END
+Delegates.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1418/trunk/Sources/Core/Delegates.cs
+END
+Core (mono).csproj
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1639/trunk/Sources/Core/Core%20(mono).csproj
+END
+EventArgs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1486/trunk/Sources/Core/EventArgs.cs
+END

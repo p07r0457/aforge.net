@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1702/trunk/Externals/ffmpeg/include/libavformat
+END
+avio.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1702/trunk/Externals/ffmpeg/include/libavformat/avio.h
+END
+avformat.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1702/trunk/Externals/ffmpeg/include/libavformat/avformat.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1702/trunk/Externals/ffmpeg/include/libavformat/version.h
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1636/trunk/Samples/Core/ParallelTest
+END
+ParallelTest (mono).sln
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1015/trunk/Samples/Core/ParallelTest/ParallelTest%20(mono).sln
+END
+ParallelTest (mono).csproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1015/trunk/Samples/Core/ParallelTest/ParallelTest%20(mono).csproj
+END
+ParallelTest.sln
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1636/trunk/Samples/Core/ParallelTest/ParallelTest.sln
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1495/trunk/Samples/Core/ParallelTest/Program.cs
+END
+ParallelTest.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1636/trunk/Samples/Core/ParallelTest/ParallelTest.csproj
+END

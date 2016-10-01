@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/1701/trunk/Unit%20Tests
+END
+Build All Tests.sln
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1635/trunk/Unit%20Tests/Build%20All%20Tests.sln
+END
+Read Me.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1304/trunk/Unit%20Tests/Read%20Me.txt
+END
+All Tests.gallio
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1504/trunk/Unit%20Tests/All%20Tests.gallio
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1641/trunk/Sources/Genetic/Chromosomes/GP
+END
+GPTreeNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/952/trunk/Sources/Genetic/Chromosomes/GP/GPTreeNode.cs
+END
+SimpleGeneFunction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1641/trunk/Sources/Genetic/Chromosomes/GP/SimpleGeneFunction.cs
+END
+IGPGene.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/952/trunk/Sources/Genetic/Chromosomes/GP/IGPGene.cs
+END
+GPTreeChromosome.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1641/trunk/Sources/Genetic/Chromosomes/GP/GPTreeChromosome.cs
+END
+ExtendedGeneFunction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1641/trunk/Sources/Genetic/Chromosomes/GP/ExtendedGeneFunction.cs
+END
+GEPChromosome.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1641/trunk/Sources/Genetic/Chromosomes/GP/GEPChromosome.cs
+END

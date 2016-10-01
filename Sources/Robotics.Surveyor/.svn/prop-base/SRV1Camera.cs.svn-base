@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 279
+/branches/2.2/Sources/Robotics.Surveyor/SRV1Camera.cs:1227,1237,1257
+/branches/fabio.caversan/Sources/Robotics.Surveyor/SRV1Camera.cs:1158-1160,1166
+/branches/fabio.caversan/Sources/Robotics.Surveyor/SVS.Camera.cs:983-1019
+/trunk/Sources/Robotics.Surveyor/SVS.Camera.cs:1038-1078
+END

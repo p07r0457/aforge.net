@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1643/trunk/Externals/ffmpeg/licenses
+END
+xavs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1440/trunk/Externals/ffmpeg/licenses/xavs.txt
+END
+theora.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1440/trunk/Externals/ffmpeg/licenses/theora.txt
+END
+sdl.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1643/trunk/Externals/ffmpeg/licenses/sdl.txt
+END
+rtmp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1440/trunk/Externals/ffmpeg/licenses/rtmp.txt
+END
+freetype.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1440/trunk/Externals/ffmpeg/licenses/freetype.txt
+END
+speex.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1440/trunk/Externals/ffmpeg/licenses/speex.txt
+END
+gsm.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1440/trunk/Externals/ffmpeg/licenses/gsm.txt
+END
+bzip2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1440/trunk/Externals/ffmpeg/licenses/bzip2.txt
+END
+frei0r.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1440/trunk/Externals/ffmpeg/licenses/frei0r.txt
+END
+opencore-amr.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1440/trunk/Externals/ffmpeg/licenses/opencore-amr.txt
+END
+vo-aacenc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1643/trunk/Externals/ffmpeg/licenses/vo-aacenc.txt
+END
+zlib.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1440/trunk/Externals/ffmpeg/licenses/zlib.txt
+END
+x264.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1440/trunk/Externals/ffmpeg/licenses/x264.txt
+END
+vorbis.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1440/trunk/Externals/ffmpeg/licenses/vorbis.txt
+END
+ffmpeg.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1440/trunk/Externals/ffmpeg/licenses/ffmpeg.txt
+END
+libvpx.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1440/trunk/Externals/ffmpeg/licenses/libvpx.txt
+END
+openjpeg.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1440/trunk/Externals/ffmpeg/licenses/openjpeg.txt
+END
+xvid.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1440/trunk/Externals/ffmpeg/licenses/xvid.txt
+END
+schroedinger.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1440/trunk/Externals/ffmpeg/licenses/schroedinger.txt
+END
+lame.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1440/trunk/Externals/ffmpeg/licenses/lame.txt
+END
+vo-amrwbenc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1643/trunk/Externals/ffmpeg/licenses/vo-amrwbenc.txt
+END

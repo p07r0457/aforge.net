@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1734/trunk/Sources/Video.FFMPEG
+END
+Video.FFMPEG.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1717/trunk/Sources/Video.FFMPEG/Video.FFMPEG.vcxproj
+END
+Video.FFMPEG.sln
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1635/trunk/Sources/Video.FFMPEG/Video.FFMPEG.sln
+END
+AForge.Video.FFMPEG.snk
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1442/trunk/Sources/Video.FFMPEG/AForge.Video.FFMPEG.snk
+END
+VideoFileSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1627/trunk/Sources/Video.FFMPEG/VideoFileSource.cpp
+END
+Stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1442/trunk/Sources/Video.FFMPEG/Stdafx.cpp
+END
+VideoFileReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1667/trunk/Sources/Video.FFMPEG/VideoFileReader.cpp
+END
+Video.FFMPEG.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1635/trunk/Sources/Video.FFMPEG/Video.FFMPEG.vcxproj.filters
+END
+AssemblyInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1717/trunk/Sources/Video.FFMPEG/AssemblyInfo.cpp
+END
+VideoFileSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1627/trunk/Sources/Video.FFMPEG/VideoFileSource.h
+END
+VideoFileReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1632/trunk/Sources/Video.FFMPEG/VideoFileReader.h
+END
+Stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1442/trunk/Sources/Video.FFMPEG/Stdafx.h
+END
+VideoFileWriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1734/trunk/Sources/Video.FFMPEG/VideoFileWriter.cpp
+END
+VideoCodec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1507/trunk/Sources/Video.FFMPEG/VideoCodec.cpp
+END
+VideoFileWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1632/trunk/Sources/Video.FFMPEG/VideoFileWriter.h
+END
+VideoCodec.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1507/trunk/Sources/Video.FFMPEG/VideoCodec.h
+END

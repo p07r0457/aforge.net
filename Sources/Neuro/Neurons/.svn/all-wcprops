@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1655/trunk/Sources/Neuro/Neurons
+END
+DistanceNeuron.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1655/trunk/Sources/Neuro/Neurons/DistanceNeuron.cs
+END
+Neuron.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1655/trunk/Sources/Neuro/Neurons/Neuron.cs
+END
+ActivationNeuron.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1655/trunk/Sources/Neuro/Neurons/ActivationNeuron.cs
+END
